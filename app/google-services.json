@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "901694668251",
+    "firebase_url": "https://semana12-cloud.firebaseio.com",
+    "project_id": "semana12-cloud",
+    "storage_bucket": "semana12-cloud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901694668251:android:93bc912c96e3cdbb553bfe",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901694668251-8p84427khr3sfngnn8js1c0ik361h8ed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGW0uAEEjTW8d0BQina5Uv7uPMZZtCs_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901694668251-8p84427khr3sfngnn8js1c0ik361h8ed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
